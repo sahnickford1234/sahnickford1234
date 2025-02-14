@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hey I'm Nicholas 
+www.linkedin.com/in/nicholas-sahagun-63b80b284
 
-<!--
-**sahnickford1234/sahnickford1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am actively interested in Cybersecurity, work with technology avidly and am dedicated to being as well versed I can be in this field :)
 
 Here are some ideas to get you started:
 
